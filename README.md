@@ -2,7 +2,7 @@
 
 > "Remote sensing is revolutionizing how we monitor Earth’s health, from climate change to food security and disaster response." — **Dr. Jane Lubchenco**
 
-![Sample Riau](sample riau.jpg)
+![Sample Riau](sample%20riau.jpg)
 
 
 ## 🌍 **Introduction: The Future of Banking Meets Remote Sensing**
