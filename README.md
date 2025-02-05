@@ -48,6 +48,10 @@ This improvement showcases the value of integrating satellite data in refining r
 **VSPI** uses **NDVI** and **Rainfall Data** to assess credit distribution, risks, and potential at the village level. The combination of these indicators allows banks to classify rural areas based on both agricultural potential and financial risk.
 
 ![Model kuadran](modelkuadran.jpg)
+# Axes of Analysis
+
+- **X-Axis**: Agricultural Credit Distribution → Total MSME loans disbursed in the agricultural sector, specifically for palm oil, in the region.
+- **Y-Axis**: NDVI (Normalized Difference Vegetation Index) & Rainfall Data (CHIRPS Satellite) → Measures vegetation health and precipitation trends.
 
 ### **VSPI Quadrant Analysis**:
 - **K1 (High NDVI, High Credit Disbursement)**: Highly productive agricultural areas with strong credit performance.
