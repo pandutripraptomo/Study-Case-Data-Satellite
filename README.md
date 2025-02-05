@@ -38,6 +38,8 @@ This case study demonstrates the significant impact of satellite data in improvi
 - **Without Satellite Data**: The model explains 58.5% of credit variations, leaving 41.5% unexplained.
 - **With Satellite Data**: The model accuracy improves to 66.3%, reducing unexplained variations to just 33.7%.
 
+![Model Satellite](modelsatelite.jpg)
+
 This improvement showcases the value of integrating satellite data in refining risk models and improving the predictive power of financial systems.
 
 ---
