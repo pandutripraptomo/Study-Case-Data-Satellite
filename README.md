@@ -2,6 +2,9 @@
 
 > "Remote sensing is revolutionizing how we monitor Earth’s health, from climate change to food security and disaster response." — **Dr. Jane Lubchenco**
 
+![Alt text](sample riau.jpg)
+
+
 ## 🌍 **Introduction: The Future of Banking Meets Remote Sensing**
 In modern banking, data-driven decision-making is vital for achieving financial inclusion, managing risks, and distributing credit effectively. Traditional banking models rely heavily on historical financial data and credit scores, which often fail to capture the unique challenges in financing agricultural MSMEs (Micro, Small, and Medium Enterprises).
 
