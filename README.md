@@ -47,6 +47,8 @@ This improvement showcases the value of integrating satellite data in refining r
 ## 📊 **Case Study 2: Village Sustainability Potential Index (VSPI)**
 **VSPI** uses **NDVI** and **Rainfall Data** to assess credit distribution, risks, and potential at the village level. The combination of these indicators allows banks to classify rural areas based on both agricultural potential and financial risk.
 
+![Model kuadran](modelkuadran.jpg)
+
 ### **VSPI Quadrant Analysis**:
 - **K1 (High NDVI, High Credit Disbursement)**: Highly productive agricultural areas with strong credit performance.
 - **K2 (Low NDVI, High Credit Disbursement)**: Credit is distributed despite weak vegetation.
